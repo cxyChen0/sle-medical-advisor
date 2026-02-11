@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+requests
+beautifulsoup4
+lxml
+pymysql
+aiosqlite
+PyPDF2
+Pillow
+cnocr
+httpx

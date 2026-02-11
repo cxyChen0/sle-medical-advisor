@@ -1,0 +1,21 @@
+[
+  {
+    "file_name": "large_test.png",
+    "file_size_mb": 0.029801368713378906,
+    "report_type": "lab",
+    "timings": {
+      "ocr": 6.4366514682769775,
+      "parse_indicators": 21.840094089508057,
+      "normalization": 0.0,
+      "ai_classification": 0,
+      "total": 28.276745557785034
+    },
+    "metrics": {
+      "text_length": 388,
+      "text_preview": "OOOOOOOOOOOOOOOOOOOOODOCRODOOOD\nOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\nOOOOOOOOCROOOOOOOOOOOOOOOOOOO\nOOOOOO",
+      "indicator_count": 15,
+      "normalized_count": 0,
+      "ai_classified_count": 0
+    }
+  }
+]

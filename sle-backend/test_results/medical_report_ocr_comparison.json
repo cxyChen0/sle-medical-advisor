@@ -1,0 +1,20 @@
+[
+  {
+    "model": "densenet_lite_136",
+    "description": "轻量级模型，速度快",
+    "time": 0.5884714126586914,
+    "text_length": 201,
+    "result_count": 18,
+    "text": "O0O\nCOID: 001\nOO：CC\n口O：O\n口口:30\nOO C:2026-02-11\nOOOO:OOOcOOdOC\n0 O C:5.8 10^9/L\n00000:4.5 10012/L\n0QQ0: 145 g/L\n0OO口O: 250 10^9/L\nOOOO:OC\nOOODNA D: 120 1U/mL\nSmOO:O\nRNPOO:OO\nSSAOO:OO\nSSBIO:OO\nC3:0.9 a/L",
+    "success": true
+  },
+  {
+    "model": "densenet_lite_136_gru",
+    "description": "带GRU的轻量级模型",
+    "time": 0.5574889183044434,
+    "text_length": 201,
+    "result_count": 18,
+    "text": "O0O\nCOID: 001\nOO：CC\n口O：O\n口口:30\nOO C:2026-02-11\nOOOO:OOOcOOdOC\n0 O C:5.8 10^9/L\n00000:4.5 10012/L\n0QQ0: 145 g/L\n0OO口O: 250 10^9/L\nOOOO:OC\nOOODNA D: 120 1U/mL\nSmOO:O\nRNPOO:OO\nSSAOO:OO\nSSBIO:OO\nC3:0.9 a/L",
+    "success": true
+  }
+]

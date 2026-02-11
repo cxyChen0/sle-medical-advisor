@@ -1,0 +1,149 @@
+{
+  "indicators": [
+    {
+      "name": "白细胞计数",
+      "value": "5.8",
+      "unit": "10^9/L",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "白细胞计数",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "红细胞计数",
+      "value": "4.5",
+      "unit": "10^12/",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "红细胞计数",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "血红蛋白",
+      "value": "145",
+      "unit": "g/L",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "血红蛋白",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "血小板计数",
+      "value": "250",
+      "unit": "10^9/L",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "血小板计数",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "抗核抗体",
+      "value": "120",
+      "unit": "IU/mL",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "抗核抗体",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "Sm抗体",
+      "value": "OD",
+      "unit": "",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "Sm抗体",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "RNP抗体",
+      "value": "OD",
+      "unit": "",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "RNP抗体",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "SSA抗体",
+      "value": "DD",
+      "unit": "",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "SSA抗体",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "SSB抗体",
+      "value": "OD",
+      "unit": "",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "SSB抗体",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "C3",
+      "value": "0.9",
+      "unit": "gL",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "C3",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "C4",
+      "value": "0.2",
+      "unit": "gL",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "C4",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "IgG",
+      "value": "12.0",
+      "unit": "gL",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "IgG",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "IgA",
+      "value": "2.0",
+      "unit": "gL",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "IgA",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "IgM",
+      "value": "1.0",
+      "unit": "g/L",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "IgM",
+      "normalization_confidence": 1.0
+    },
+    {
+      "name": "尿蛋白",
+      "value": "1+",
+      "unit": "",
+      "reference_range": "",
+      "is_abnormal": false,
+      "normalized_name": "尿蛋白",
+      "normalization_confidence": 1.0
+    }
+  ],
+  "patient_info": {
+    "patient_id": "",
+    "name": "",
+    "gender": "",
+    "age": ""
+  },
+  "report_info": {
+    "report_date": "",
+    "report_number": ""
+  }
+}
